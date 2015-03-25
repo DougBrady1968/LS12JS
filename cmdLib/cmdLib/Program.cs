@@ -11,6 +11,7 @@ namespace cmdLib
         static void Main(string[] args)
         {
             // My comment
+            // here
         }
     }
 }
